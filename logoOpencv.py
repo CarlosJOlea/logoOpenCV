@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 def main():
+    #carlos Jesus Olea Diaz
     font = cv2.FONT_HERSHEY_SIMPLEX
     img = np.zeros((512, 480, 3),dtype=np.uint8)
     img.fill(255)
